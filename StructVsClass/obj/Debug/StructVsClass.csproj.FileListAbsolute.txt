@@ -1,0 +1,6 @@
+C:\Users\Amilaperera\Documents\Visual Studio 2013\Projects\TwentyQuestions\TwentyQuestions\bin\Debug\TwentyQuestions.exe.config
+C:\Users\Amilaperera\Documents\Visual Studio 2013\Projects\TwentyQuestions\TwentyQuestions\obj\Debug\TwentyQuestions.exe
+C:\Users\Amilaperera\Documents\Visual Studio 2013\Projects\TwentyQuestions\TwentyQuestions\obj\Debug\TwentyQuestions.pdb
+C:\Users\Amilaperera\Documents\Visual Studio 2013\Projects\TwentyQuestions\TwentyQuestions\bin\Debug\TwentyQuestions.exe
+C:\Users\Amilaperera\Documents\Visual Studio 2013\Projects\TwentyQuestions\TwentyQuestions\bin\Debug\TwentyQuestions.pdb
+C:\Users\Amilaperera\Documents\Visual Studio 2013\Projects\TwentyQuestions\TwentyQuestions\obj\Debug\StructVsClass.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\amilaperera\documents\visual studio 2013\Projects\TwentyQuestions\TwentyQuestions\bin\Debug\TwentyQuestions.exe.config
+c:\users\amilaperera\documents\visual studio 2013\Projects\TwentyQuestions\TwentyQuestions\obj\Debug\TwentyQuestions.csprojResolveAssemblyReference.cache
+c:\users\amilaperera\documents\visual studio 2013\Projects\TwentyQuestions\TwentyQuestions\bin\Debug\TwentyQuestions.exe
+c:\users\amilaperera\documents\visual studio 2013\Projects\TwentyQuestions\TwentyQuestions\bin\Debug\TwentyQuestions.pdb
+c:\users\amilaperera\documents\visual studio 2013\Projects\TwentyQuestions\TwentyQuestions\obj\Debug\TwentyQuestions.exe
+c:\users\amilaperera\documents\visual studio 2013\Projects\TwentyQuestions\TwentyQuestions\obj\Debug\TwentyQuestions.pdb
